@@ -2,13 +2,15 @@
 
 这里是 _着火的冰块nya_ ~
 
+是高中牲 qwq
+
+🏳️‍⚧️ MtF
+
 了解我：[哔哩哔哩](https://space.bilibili.com/551409211) | [个人博客](https://zhdbk3.github.io/)
 
 技术栈：Python | Vue | TypeScript | C++ | 正在学习 C#
 
 爱好：编程 | 天文 | Minecraft | ？？？
-
-🏳️‍⚧️ MtF
 
 I use Arch btw (
 
