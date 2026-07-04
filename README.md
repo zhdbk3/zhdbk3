@@ -8,9 +8,9 @@
 
 🌌 喜欢仰望星空，喜欢可爱的东西，喜欢做一些不切实际的幻想，喜欢实践一些有趣的点子，还喜欢睡觉
 
-🔗 了解我：[哔哩哔哩](https://space.bilibili.com/551409211) | [个人博客](https://zhdbk3.github.io/)
+🔗 了解我：[个人博客](https://zhdbk3.github.io/) | [哔哩哔哩](https://space.bilibili.com/551409211)
 
-⚙️ 技术栈：Python | Vue | TypeScript | C++ | 正在学习 Rust
+⚙️ 技术栈：Python | Vue | TypeScript | C++
 
 ✨ 爱好：编程 | 天文 | Minecraft | ~~涩涩~~
 
